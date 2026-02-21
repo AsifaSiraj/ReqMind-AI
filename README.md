@@ -22,6 +22,17 @@ ReqMind AI demonstrates the practical application of Generative AI in improving 
 
 ---
 
+## 🌐 Live Deployment (Hugging Face Space)
+
+The application is deployed and publicly accessible via Hugging Face Spaces:
+
+🔗 **Live Demo:**  
+https://huggingface.co/spaces/MahzaibDhillo/ReqMind_AI  
+
+This deployment enables real-time interaction with the AI-powered requirement analysis system without local setup.
+
+---
+
 ## 🏛 Developed Under
 
 This project was developed as part of:
