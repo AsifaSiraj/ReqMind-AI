@@ -91,7 +91,7 @@ User Input
 
 ### 🔹 Components
 
-- **Frontend:** Streamlit  
+- **Frontend:** Gradio(Python) 
 - **Backend:** Python  
 - **AI Hosting:** Hugging Face Inference API  
 - **Model Type:** Large Language Model (Llama-based)  
