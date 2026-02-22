@@ -1,0 +1,7 @@
+groq
+gradio
+pypdf
+pdfplumber
+reportlab
+python-docx
+
