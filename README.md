@@ -191,7 +191,7 @@ export HF_TOKEN=your_token_here
 
 ### 4️⃣ Run Application
 ```bash
-streamlit run app.py
+gradio run app.py
 ```
 
 ---
